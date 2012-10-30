@@ -1,4 +1,4 @@
 Simple-Notes
 ============
 
-Working version of the tutorial
+Phone Gap local storage example
